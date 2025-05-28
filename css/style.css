@@ -38,3 +38,7 @@ button{
     max-width: 100%;
     height: auto;
 }
+footer {
+    color: #888;
+    font-size: 14px;
+}
