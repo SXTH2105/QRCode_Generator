@@ -9,6 +9,11 @@ This is a simple and responsive QR Code Generator built using **HTML**, **CSS**,
 [🔗 View Live Demo](https://sxth2105.github.io/QRCode_Generator/)
 
 ---
+## 📸 Screenshot
+
+![QR Code Generator Screenshot](asset/Screenshot.png)
+
+---
 
 ## 🚀 Features
 
@@ -34,12 +39,15 @@ This is a simple and responsive QR Code Generator built using **HTML**, **CSS**,
 ```plaintext
 project-folder/
 │
-├── index.html            # Main HTML page
+├── index.html
 ├── css/
-│   └── style.css         # Stylesheet
+│   └── style.css
 ├── js/
-│   └── script.js         # JavaScript logic
-└── README.md             # This file
+│   └── index.js
+├── asset/
+│   └── QRCode _title_Logo.png
+|   └── Screenshot.png   
+└── README.md            
 ```
 
 ---
